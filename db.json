@@ -1,0 +1,16 @@
+{
+  "allemployee": [
+    {
+      "name": "Amal ",
+      "email": "amal@gmail.com",
+      "status": "inactive",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Adith A Kumar",
+      "email": "adith@gmail.com",
+      "status": "active"
+    }
+  ]
+}
